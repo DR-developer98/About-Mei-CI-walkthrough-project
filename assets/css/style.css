@@ -11,7 +11,17 @@
 
 body {
     font-family: "Poppins", sans serif;
-    background-color: #a4c2d1; /*egg blue*/
+    background-color: #a4c2d1; /*egg blue*/ 
+}
+
+#hero {
+    background-color:#dbdcde;
+    background-image: url("../images/background.webp");
+    background-size: cover;
+    background-position: 50% 70%;
+    background-repeat: no-repeat;
+    min-width: 500px;
+    padding: 5% 7%;
 }
 
 h1, h2 {
